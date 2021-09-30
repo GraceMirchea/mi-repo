@@ -1,2 +1,2 @@
 # mi-repo
-Esta es una página animada de prueba que intenté desarrollar con animaciones en css, cualquiera puede hacer uso de ella
+Esta es una página de prueba con animaciones en ccs, aún se encuentra en pleno desarrollo e iré actualizando el proyecto poco a poco, cualquiera puede hacer uso del mismo.
